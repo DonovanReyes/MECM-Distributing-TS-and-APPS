@@ -4,6 +4,7 @@
  Follow the steps below to distribute Task Sequences as well as Applications in Microsoft Endpoint Configuration Manager.
   
 <b> *NOTE*: Failure to distribute task sequences or applications will cause an error "Software could not be located from the server at this time" in Software Center when deploying to devices…</b>
+
 <b> *NOTE*: Making changes to a task sequence or application may cause the Distribute Content button to fade out gray and be disabled from being selected. Simply exit out of the Software Library tab and reenter for it to appear colored and selectable.</b>
 
 - Click on Software Library at the bottom left.
